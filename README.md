@@ -50,7 +50,7 @@ Link do Projeto: [Dogs](https://dogshs.netlify.app/)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/AutoCar/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/Dogs/blob/main/LICENSE) para mais detalhes.
 
 ---
 
