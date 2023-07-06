@@ -16,6 +16,27 @@
 
 ## 📦 Installation
 
+Executar para glonar o projeto:
+
+```bash
+git clone https://github.com/bernardocostaa/Dogs.git
+```
+Executar para instalar as dependências necessárias:
+
+```bash
+npm install
+```
+Executar para rodar o projeto:
+
+```bash
+npm run dev
+```
+Executar para criar um diretório de compilação de produção do seu aplicativo
+
+```bash
+npm run build 
+```
+
 ## 🚀 Tecnologias
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
