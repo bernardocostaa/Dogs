@@ -13,7 +13,7 @@
 </p>
 <br>
 
-## 📦 Installation
+## 📦 Instalação
 
 Executar para glonar o projeto:
 
