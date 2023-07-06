@@ -11,7 +11,6 @@
   <a href="https://dogshs.netlify.app/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
 <br>
 
 ## 📦 Installation
@@ -21,6 +20,7 @@ Executar para glonar o projeto:
 ```bash
 git clone https://github.com/bernardocostaa/Dogs.git
 ```
+
 Executar para instalar as dependências necessárias:
 
 ```bash
