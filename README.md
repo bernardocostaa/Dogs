@@ -15,7 +15,7 @@
 
 ## 📦 Instalação
 
-Executar para glonar o projeto:
+Executar para clonar o projeto:
 
 ```bash
 git clone https://github.com/bernardocostaa/Dogs.git
