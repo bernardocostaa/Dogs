@@ -42,6 +42,8 @@ npm run build
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 - React
+- HTML
+- CSS
 
 ## 🚧 Projeto:
 
